@@ -11,4 +11,9 @@
     --very-dark-blue-card : hsl(216, 50%, 16%); /*card BG*/
     --very-dark-blue-line : hsl(215, 32%, 27%);
     --white : hsl(0, 0%, 100%);
+
+    /*Font*/
+    --outfit-font: 'Outfit', sans-serif;
+
 }
+
